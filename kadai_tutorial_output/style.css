@@ -10,7 +10,7 @@
  body {
    font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
    max-width: 1080px;
-   margin: 0 auto;
+   margin: 0 auto 0 auto;
  }
 
 
@@ -26,7 +26,7 @@
    }
    #nav-pc ul {
     display: flex;
-    padding-left: 0;
+    padding-left:0;
    }
    #nav-pc li {
     list-style: none;
